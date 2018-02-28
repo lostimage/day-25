@@ -54,9 +54,12 @@ body {
 .ba-quote {
 	font:300 24px 'Lato', sans-serif;
 	line-height: 34px;
+	font-style: oblique ;
+	margin-left:0;
 }
 blockquote:before
 {
    content: "“";
    font-size: 60px;
+   letter-spacing: 0.4em;
 }
